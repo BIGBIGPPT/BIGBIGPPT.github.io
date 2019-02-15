@@ -1,8 +1,8 @@
 ## Welcome to my blog
 
 You can use the [editor on GitHub](https://github.com/BIGBIGPPT/BIGBIGPPT.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-### Sorry I'm still working on it. Please wiat..
-### 抱歉
+# Sorry I'm still working on it. Please wiat..
+# 抱歉
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
